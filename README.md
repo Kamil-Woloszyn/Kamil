@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil Woloszyn</h1>
 <h3 align="center">A passionate game developer from Ireland</h3>
 
-- 🔭 I’m currently working on **Island51**
+- 🔭 I’m currently working on **Multiple Projects**
 
 - 🌱 I’m currently learning **Games Design & Development**
 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Im easy to talk to**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Email: **kamil.justkamil@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

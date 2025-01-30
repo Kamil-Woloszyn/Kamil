@@ -1,6 +1,6 @@
 # Kamil Woloszyn
 
-[Email](mailto:kamil.justkamil@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kamil-w-b9118b22b/) • [GitHub](https://github.com/Kamil-Woloszyn) 
+[Email](mailto:kamil.justkamil@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kamil-woloszyn/) • [GitHub](https://github.com/Kamil-Woloszyn) 
 ---
 
 ## 👩‍💼 Profile
@@ -25,7 +25,7 @@ I am a 4th Year student in Games Design & Development at The Technological Unive
 
 ## 🛠 Skills
 
-- **Programming Languages**: JavaScript, Python, C, C#, C++, Java, MySQL
+- **Programming Languages**: JavaScript, Python, C, C#, C++, Java, MySQL, R
 - **Web Development**: HTML, CSS, React, Node.js
 - **Tools & Platforms**: Git, Docker, Unity, Linux, Databases, Networking
 ---

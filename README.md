@@ -33,7 +33,7 @@ I am a 4th Year student in Games Design & Development at The Technological Unive
 ## 📬 Contact
 
 - **Email**: [kamil.justkamil@gmail.com](mailto:kamil.justkamil@gmail.com)
-- **LinkedIn**: [linkedin.com/in/kamil-w-b9118b22b/](https://www.linkedin.com/in/kamil-w-b9118b22b/)
+- **LinkedIn**: [https://www.linkedin.com/in/kamil-woloszyn/](https://www.linkedin.com/in/kamil-woloszyn/)
 - **GitHub**: [github.com/Kamil-Woloszyn](https://github.com/Kamil-Woloszyn)
 
 ---
